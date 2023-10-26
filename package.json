@@ -1,0 +1,27 @@
+{
+  "name": "react-native-spk-tag-input",
+  "version": "1.0.0",
+  "description": "Tag input component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigomspk/react-native-spk-tag-input.git"
+  },
+  "keywords": [
+    "taginput",
+    "reactnative",
+    "tag",
+    "tagfield",
+    "etiqueta"
+  ],
+  "author": "Rodrigo Manzano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigomspk/react-native-spk-tag-input/issues"
+  },
+  "homepage": "https://github.com/rodrigomspk/react-native-spk-tag-input#readme",
+  "private": false
+}
